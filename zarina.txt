@@ -1,0 +1,17 @@
+<head>
+<style>
+.cons{
+color:green;
+text-align:yellow;}
+</style>
+
+</head>
+<body>
+<h1>Advantages and Disadvantages of on-line Education></h1>
+<p>other activities accept lessons</p>
+<p class="cons">Problems with internet connection</p>
+<p>You are with relatives</p>
+<h3 class="cons">Your healthy becomes bad</h3>
+<p>You can eat and study at one time</p>
+<p class="cons">Difficult to understand the topics</p>
+</body>
